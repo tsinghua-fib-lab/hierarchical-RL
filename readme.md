@@ -1,4 +1,4 @@
-# Source code for Hierarchical Reinforcement Learning for Scarce Medical Resource Allocation with Imperfect Information
+# Source code for 'Hierarchical Reinforcement Learning for Scarce Medical Resource Allocation with Imperfect Information' (KDD'21)
 
 - code\RL_train.py: Train the RL agent.
 - code\RNN_train.py: Train the information rebuilding RNN.
